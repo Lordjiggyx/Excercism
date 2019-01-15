@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\ilori2016\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.promptToConfigure": false
+}
